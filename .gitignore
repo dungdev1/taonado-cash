@@ -21,3 +21,7 @@ ignition/deployments/chain-31337
 # secrets and other local configs
 config.ts
 neuron/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
